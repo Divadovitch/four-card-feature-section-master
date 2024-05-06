@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution](https://your-solution-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/four-card-feature-section-with-css-grid-xUOb9XeS7t)
 - Live Site URL: [Live preview](https://divadovitch.github.io/four-card-feature-section-master/)
 
 ### Built with
