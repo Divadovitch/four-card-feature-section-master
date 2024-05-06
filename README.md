@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution](https://your-solution-url.com)
-- Live Site URL: [Live preview](https://your-live-site-url.com)
+- Live Site URL: [Live preview](https://divadovitch.github.io/four-card-feature-section-master/)
 
 ### Built with
 

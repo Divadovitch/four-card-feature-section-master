@@ -8,6 +8,7 @@
   --color-blue: hsl(212, 86%, 64%);
 
   /* neutral */
+  --color-white: hsl(0, 0%, 100%);
   --color-neutral-100: hsl(0, 0%, 98%);
   --color-neutral-400: hsl(229, 6%, 66%);
   --color-neutral-900: hsl(234, 12%, 34%);
@@ -99,7 +100,7 @@ h3 {
 
 .card {
   max-width: 350px;
-  /* min-height: 250px; */
+  background-color: var(--color-white);
   border-radius: 0.5rem;
   padding: 2rem;
   box-shadow: 2px 10px 20px 2px var(--color-shadow);
