@@ -123,16 +123,16 @@ h3 {
   position: absolute;
 }
 /* specific colors for the lines */
-.card[color="cyan"]::before {
+.supervisor::before {
   background-color: var(--color-cyan);
 }
-.card[color="red"]::before {
+.builder::before {
   background-color: var(--color-red);
 }
-.card[color="orange"]::before {
+.karma::before {
   background-color: var(--color-orange);
 }
-.card[color="blue"]::before {
+.calculator::before {
   background-color: var(--color-blue);
 }
 
